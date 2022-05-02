@@ -14,5 +14,5 @@ void keyReleased() {
 
 
 //
-//textSize(420); //lmao
-//text("i trust you <3");
+
+
